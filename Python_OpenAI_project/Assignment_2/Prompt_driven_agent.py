@@ -13,8 +13,8 @@ task_descriptions = [
 ]
 
 client = OpenAI(
-    base_url="https://aiportalapi.stu-platform.live/jpe",
-    api_key="sk-v7MixFROMXjbzCX8NcdSDA"
+    base_url="https://pe",
+    api_key=""
 )
 
 

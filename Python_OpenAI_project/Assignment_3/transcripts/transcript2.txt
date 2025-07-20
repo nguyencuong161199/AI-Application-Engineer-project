@@ -1,0 +1,3 @@
+Weekly engineering sync: Reviewed sprint progress. Frontend team completed 90% of UI redesign. 
+Backend API updates delayed due to testing issues. 
+Decision: Extend sprint by 2 days. Action: QA team to prioritize backend test cases.

@@ -1,0 +1,12 @@
+**Meeting Summary: Client Onboarding Session**
+
+**Key Points:**
+- Introduction of project timeline and deliverables.
+- Client expressed a desire to change the data visualization format.
+
+**Decisions:**
+- The design team will explore and propose alternative data visualization formats.
+
+**Action Items:**
+- Design team to present alternatives to the client by Friday.
+- Schedule next check-in for Monday at 10 AM.

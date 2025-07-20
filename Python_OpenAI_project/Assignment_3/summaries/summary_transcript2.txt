@@ -1,0 +1,12 @@
+**Meeting Summary: Weekly Engineering Sync**
+
+**Key Points:**
+- Reviewed sprint progress.
+- Frontend team has completed 90% of the UI redesign.
+- Backend API updates are delayed due to testing issues.
+
+**Decisions:**
+- Extend the current sprint by 2 days.
+
+**Action Items:**
+- QA team to prioritize backend test cases.

@@ -1,0 +1,3 @@
+Product roadmap review: Added features for Q4 release. Discussed user feedback from latest beta. 
+Decided to remove Feature X due to low usage. 
+Action items: PM to update roadmap, Dev team to clean up deprecated code.

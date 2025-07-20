@@ -1,0 +1,12 @@
+**Meeting Summary: Product Roadmap Review**
+
+**Key Points:**
+- Reviewed the product roadmap for the upcoming Q4 release.
+- Discussed user feedback received from the latest beta testing.
+
+**Decisions:**
+- Decided to remove Feature X from the roadmap due to low usage.
+
+**Action Items:**
+1. Product Manager (PM) to update the product roadmap accordingly.
+2. Development team to clean up deprecated code related to the removed feature.

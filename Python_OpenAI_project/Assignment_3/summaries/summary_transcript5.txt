@@ -1,0 +1,15 @@
+**Meeting Summary: Security Team Update**
+
+**Key Points:**
+- Penetration test results were shared with the team.
+- No critical vulnerabilities were identified in the recent tests.
+- There are some low severity issues that will be addressed and patched within the week.
+- A security awareness training session is scheduled for July 15.
+
+**Decisions:**
+- Proceed with patching low severity issues this week.
+- Mandatory attendance for all teams at the security awareness training.
+
+**Action Items:**
+- Security team to implement patches for low severity issues by the end of the week.
+- All teams to prepare for and attend the security awareness training on July 15.
