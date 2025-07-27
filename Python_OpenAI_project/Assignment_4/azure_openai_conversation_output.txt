@@ -1,0 +1,49 @@
+================================================================================
+CONVERSATION ANALYSIS
+================================================================================
+
+📋 CONVERSATION STRUCTURE:
+1. SYSTEM: You are a helpful event management assistant with expertise in:
+1. Sentiment analysis with detailed ...
+2. USER: Analyze the sentiment of this text: 'I love attending networking events!'
+3. ASSISTANT: Let me analyze this step by step:
+1. The text contains 'I love' which is a strong positive emotion
+2...
+4. USER: Analyze the sentiment of this text: 'Networking can be really stressful sometimes.'
+5. ASSISTANT: Let me analyze this step by step:
+1. The text mentions 'stressful' which is a negative emotion
+2. 'c...
+6. USER: Analyze the sentiment of this text: 'I'm neutral about networking events - they're okay.'
+7. ASSISTANT: Let me analyze this step by step:
+1. The text explicitly states 'neutral' which indicates no strong ...
+8. USER: Analyze the sentiment of this text: 'I'm excited to meet new people at the conference!' Please expla...
+
+🤖 AI RESPONSE:
+----------------------------------------
+Let’s break down the sentiment analysis of the text "I'm excited to meet new people at the conference!" step by step:
+
+1. **Identify Key Phrases**: 
+   - The phrase "I'm excited" is a clear indicator of a positive emotion. Excitement is a strong and enthusiastic feeling.
+   
+2. **Context of the Excitement**:
+   - The excitement is directed towards "to meet new people", which implies a positive anticipation of social interactions. Meeting new people is generally viewed as a beneficial and enjoyable experience in networking contexts.
+
+3. **Event Context**:
+   - The mention of "the conference" provides a specific context where networking typically occurs. Conferences are often associated with opportunities for professional growth, learning, and forming new connections, which further enhances the positivity of the sentiment.
+
+4. **Absence of Negative Language**: 
+   - The text does not contain any words or phrases that suggest negativity, discomfort, or reluctance. There are no qualifiers that would lessen the excitement such as "but" or "however."
+
+5. **Overall Tone**: 
+   - The overall tone of the text is enthusiastic and optimistic, reinforcing the positive sentiment.
+
+**Sentiment**: Positive  
+**Confidence**: High  
+**Reasoning**: The text expresses a clear and strong emotion of excitement towards a positive social experience, indicating a favorable view of networking opportunities at the conference.
+
+📊 ANALYSIS SUMMARY:
+----------------------------------------
+• Total messages in conversation: 8
+• Few-shot examples included: 3
+• System prompt included: True
+• Chain-of-thought prompting: Yes
